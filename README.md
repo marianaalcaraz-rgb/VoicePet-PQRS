@@ -17,9 +17,11 @@ tengo 23 años, vivo en chigorodo antioquia voy por el cuarto semestre de ingeni
 
 este proyecto consiste en el Movimiento Estudiantil de Perritos y Gaticos de los estudiantes de la UdeA que gestiona la atención veterinaria para perros y gatos mediante la recepción de PQRS, su nombre cosiste en la voz de los animalitos con las siglas de PQRS, con el fin de hacer un trabajo mas eficiente al momento de recibir cada una de las solicitudes y que sean atendidas en el menor tiempo posible. 
 
+
 **licencia del software**
 
 <a href="https://github.com/marianaalcaraz-rgb/VoicePet-PQRS"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">VoicePet PQRS</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> © 2026 por </font></font><a href="https://ejemplo.com"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">movimiento estudiantil</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> tiene licencia </font></font><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">CC BY-NC-SA 4.0</font></font></a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 
 **Visión Del Proyecto**
 
