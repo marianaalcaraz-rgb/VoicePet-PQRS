@@ -11,7 +11,11 @@ la estructura de su almacenamiento debe tener que cada documento debe manejarse 
 la captura de datos debe guardar la informacion específica y particular de cada tipo de solicitud realizada.
 
 
+
 **Integrantes**
-**Mariana Alcaraz Alvarez** 
+
+**Mariana Alcaraz Alvarez**
+
+
 tengo 23 años, vivo en chigorodo antioquia voy por el cuarto semestre de ingenieria industrial, me considero una persona responsable, comprometida, proactiva y me gusta trabajar en equipo.  
 
