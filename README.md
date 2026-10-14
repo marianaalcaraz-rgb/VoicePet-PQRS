@@ -1,5 +1,5 @@
 # VoicePet-PQRS
 
-**Mariana ALcaraz Alvarez**
+**Mariana Alcaraz Alvarez**
 
 **descripcion** desarrolladora de estructura de datos y registro
