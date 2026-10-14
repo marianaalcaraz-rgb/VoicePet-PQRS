@@ -36,6 +36,8 @@ Digitalizar y optimizar el flujo de trabajo de registro, seguimiento y resoluci�
 
 
 **Beneficios**
+
+
 Para el equipo gestor (Estudiantes de MEPEGA):
 
 Eliminación del error humano asociado al registro manual en papel y lápiz.   
