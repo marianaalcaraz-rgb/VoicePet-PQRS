@@ -38,18 +38,18 @@ Digitalizar y optimizar el flujo de trabajo de registro, seguimiento y resoluci�
 **Beneficios**
 
 
-Para el equipo gestor (Estudiantes de MEPEGA):
+*Para el equipo gestor (Estudiantes de MEPEGA):
 
 Eliminación del error humano asociado al registro manual en papel y lápiz.   
 Búsqueda instantánea de registros activos y visibilidad inmediata de la PQRS más antigua.   
 Alertas automáticas sobre el estado de vencimiento de las solicitudes.  
 
-Para los usuarios y peticionarios:
+*Para los usuarios y peticionarios:
 
 Emisión de comprobantes (fichos) transparentes con la fecha límite exacta de respuesta (30 días).   
 Trazabilidad clara sobre las solicitudes presentadas para sus mascotas.  
 
-Para el servicio de bienestar animal (Perros y Gatos):
+*Para el servicio de bienestar animal (Perros y Gatos):
 
 Priorización efectiva de casos veterinarios pendientes, evitando el traspaso o la pérdida de solicitudes. 
 
