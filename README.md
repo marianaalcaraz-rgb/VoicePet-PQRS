@@ -50,6 +50,8 @@ Emisión de comprobantes (fichos) transparentes con la fecha límite exacta de r
 Trazabilidad clara sobre las solicitudes presentadas para sus mascotas.  
 
 Para el servicio de bienestar animal (Perros y Gatos):
+
+
 Priorización efectiva de casos veterinarios pendientes, evitando el traspaso o la pérdida de solicitudes. 
 
 
