@@ -7,7 +7,10 @@
 
 tengo 23 años, vivo en chigorodo antioquia voy por el cuarto semestre de ingenieria industrial, me considero una persona responsable, comprometida, proactiva y me gusta trabajar en equipo.  
 
+**¡Hola! Soy Alexander López 👋**
 
+Estudiante de Ingeniería Industrial | Analista de Operaciones & Mantenimiento Industrial 
+Me apasiona la intersección entre la ingeniería de métodos, la analítica aplicada y la optimización continua de procesos productivos. Cuento con experiencia práctica en el sector industrial orientada a la confiabilidad operacional, análisis de indicadores de mantenimiento y eficiencia energética.
 
 
 **VoicePet Gestor De PQRS**
@@ -83,5 +86,12 @@ Los requisitos no funcionales definen los criterios de calidad, rendimiento y op
 
 *Mantenibilidad: La arquitectura del código debe estar dividida modularmente de forma que se facilite el mantenimiento por parte de los miembros del equipo de desarrollo.
 
+
 **Plan de Proyecto**
 
+**Cronograma:** 16 semanas desde la conformación del grupo y diseño de requisitos (Semanas 1-8), desarrollo de la Entrega 1 (Semana 9), hasta la integración de Power BI y sustentación final (Semana 16).
+* **Presupuesto académico:** 3 integrantes dedicando 50 horas cada uno (150 horas de grupo). Cada hora se tasa a $8.125 COP (base de 1 SMLV de práctica profesional de $1.300.000 COP por 160 horas al mes), dando un valor formativo equivalente de **$1.625.000 COP**
+
+  **Diagrama de Gantt**
+  
+ <img width="3694" height="2135" alt="image" src="https://github.com/user-attachments/assets/ddeefb52-ea57-4642-92fb-58234b5e81f7" />
