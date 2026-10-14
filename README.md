@@ -10,7 +10,7 @@ este sistema es con el fin de automatizar el registro y la gestion de las PQRS, 
 la estructura de su almacenamiento debe tener que cada documento debe manejarse de forma independiente sin almacenarse en un mismo repositorio.
 la captura de datos debe guardar la informacion específica y particular de cada tipo de solicitud realizada.
 
-**objetivo**
+**Objetivo**
 
 El objetivo es crear un programa de consola visualmente amigable al administrador, en donde permita gestionar documentos PQRS, gestionando mediante archivos planos la información, para posteriormente exportar los resultados a un archivo plano usando Python.
 
