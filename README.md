@@ -12,9 +12,20 @@ la captura de datos debe guardar la informacion específica y particular de cada
 
 **Visión Del Proyecto**
 
-**Descripcion General Del Software y Objetivos** 
+**Descripcion General Del Software** 
 
 VoicePet es un sistema de gestión de consola, desarrollado en Python, donde permita gestionar documentos PQRS, centralizado y automatizado diseñado para el Movimiento Estudiantil de Perritos y Gaticos (MEPEGA) de la Universidad de Antioquia. Este sistema reemplaza el registro tradicional en papel por una solución digital que unifica la gestión de PQRS (Peticiones, Quejas, Reclamos y Sugerencias) recibidas a través de diversos canales. VoicePet organiza la atención de servicios veterinarios para perros y gatos mediante la asignación automática de radicados únicos, el control riguroso de tiempos de respuesta y la generación de métricas analíticas de gestión. 
+
+**objetivos del Sistema**
+
+Digitalizar y optimizar el flujo de trabajo de registro, seguimiento y resolución de PQRS en MEPEGA para garantizar una atención veterinaria ágil, transparente y oportuna para perros y gatos en la UdeA.
+
+*Estandarizar el registro: Asignar a cada solicitud un número de radicado propio, único, consecutivo e independiente, evitando la duplicidad de registros.   
+
+Garantizar el cumplimiento de plazos: Implementar un control temporal automático que fije el plazo máximo de 30 días calendario para dar respuesta a cada PQRS y emita alertas oportunas sobre documentos próximos a vencer.   
+
+Proveer herramientas analíticas: Ofrecer un motor de consulta y reporte de estadísticas en tiempo real sobre los registros activos, distribuidos por tipo de documento y por especie (perros y gatos).
+
 
 
 
