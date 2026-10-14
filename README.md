@@ -1,6 +1,6 @@
 # VoicePet-PQRS
 
-**VoicePet gestor de PQRS**
+**VoicePet Gestor De PQRS**
 <img width="1024" height="559" alt="WhatsApp Image 2026-10-13 at 8 14 33 PM" src="https://github.com/user-attachments/assets/bd913269-27ed-4b03-8ea1-dc0e87482451" />
 
 **Descripcion**
@@ -10,9 +10,11 @@ este sistema es con el fin de automatizar el registro y la gestion de las PQRS, 
 la estructura de su almacenamiento debe tener que cada documento debe manejarse de forma independiente sin almacenarse en un mismo repositorio.
 la captura de datos debe guardar la informacion específica y particular de cada tipo de solicitud realizada.
 
-**Objetivo**
+**Visión Del Proyecto**
 
-El objetivo es crear un programa de consola visualmente amigable al administrador, en donde permita gestionar documentos PQRS, gestionando mediante archivos planos la información, para posteriormente exportar los resultados a un archivo plano usando Python.
+**Descripcion General Del Software y Objetivos** 
+
+VoicePet es un programa de sistema de gestion de consola donde permita gestionar documentos PQRS, gestionando mediante archivos planos la información, para posteriormente exportar los resultados a un archivo plano usando Python.
 
 
 
