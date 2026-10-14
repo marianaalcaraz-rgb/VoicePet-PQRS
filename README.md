@@ -16,9 +16,7 @@ tengo 23 años, vivo en chigorodo antioquia voy por el cuarto semestre de ingeni
 **Descripcion**
 
 este proyecto consiste en el Movimiento Estudiantil de Perritos y Gaticos de los estudiantes de la UdeA que gestiona la atención veterinaria para perros y gatos mediante la recepción de PQRS, su nombre cosiste en la voz de los animalitos con las siglas de PQRS, con el fin de hacer un trabajo mas eficiente al momento de recibir cada una de las solicitudes y que sean atendidas en el menor tiempo posible. 
-este sistema es con el fin de automatizar el registro y la gestion de las PQRS, generando numeros de radicados unicos consecutivos e independientes para cada PQRS, evitando duplicados.
-la estructura de su almacenamiento debe tener que cada documento debe manejarse de forma independiente sin almacenarse en un mismo repositorio.
-la captura de datos debe guardar la informacion específica y particular de cada tipo de solicitud realizada.
+
 
 **Visión Del Proyecto**
 
@@ -39,10 +37,4 @@ Digitalizar y optimizar el flujo de trabajo de registro, seguimiento y resoluci�
 
 
 
-**Integrantes**
-
-**Mariana Alcaraz Alvarez**
-
-
-tengo 23 años, vivo en chigorodo antioquia voy por el cuarto semestre de ingenieria industrial, me considero una persona responsable, comprometida, proactiva y me gusta trabajar en equipo.  
 
