@@ -10,6 +10,8 @@ este sistema es con el fin de automatizar el registro y la gestion de las PQRS, 
 la estructura de su almacenamiento debe tener que cada documento debe manejarse de forma independiente sin almacenarse en un mismo repositorio.
 la captura de datos debe guardar la informacion específica y particular de cada tipo de solicitud realizada.
 
-**Mariana Alcaraz Alvarez**
 
-**descripcion** desarrolladora de estructura de datos y registro
+**Integrantes**
+**Mariana Alcaraz Alvarez** 
+tengo 23 años, vivo en chigorodo antioquia voy por el cuarto semestre de ingenieria industrial, me considero una persona responsable, comprometida, proactiva y me gusta trabajar en equipo.  
+
