@@ -66,6 +66,7 @@ Consulta de Registros Activos: El sistema debe permitir consultar las PQRS activ
 
 
 **Requisitos No Funcionales**
+
 Los requisitos no funcionales definen los criterios de calidad, rendimiento y operación del software VoicePet.   
 
 Independencia de Almacenamiento (Fiabilidad): Cada documento debe ser almacenado de manera independiente con su propia estructura de datos particular, evitando consolidarlos en un mismo repositorio unificado.   
