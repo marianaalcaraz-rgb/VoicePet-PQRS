@@ -53,6 +53,16 @@ Trazabilidad clara sobre las solicitudes presentadas para sus mascotas.
 
 Priorización efectiva de casos veterinarios pendientes, evitando el traspaso o la pérdida de solicitudes. 
 
+**Requisitos Funcionales**
 
+Los requisitos funcionales definen las acciones, operaciones y comportamientos específicos que el sistema VoicePet debe ejecutar.
+
+Registro de PQRS: El sistema debe permitir el registro de Peticiones, Quejas, Reclamos y Sugerencias, solicitando la información particular de la solicitud y discriminando el tipo de animal atendiéndose (perro o gato).   
+
+Asignación de Radicado Único: El sistema debe generar de forma automática un número de radicado consecutivo, único e independiente para cada documento, garantizando la ausencia de números repetidos.   
+
+Cálculo de Fecha Límite de Respuesta: El sistema debe calcular automáticamente el plazo máximo de respuesta de 30 días calendario a partir del momento de la radicación de la PQRS.   
+
+Consulta de Registros Activos: El sistema debe permitir consultar las PQRS activas que están actualmente en proceso de gestión. 
 
 
