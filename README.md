@@ -65,5 +65,18 @@ Cálculo de Fecha Límite de Respuesta: El sistema debe calcular automáticament
 Consulta de Registros Activos: El sistema debe permitir consultar las PQRS activas que están actualmente en proceso de gestión. 
 
 
+**Requisitos No Funcionales**
+Los requisitos no funcionales definen los criterios de calidad, rendimiento y operación del software VoicePet.   
+
+Independencia de Almacenamiento (Fiabilidad): Cada documento debe ser almacenado de manera independiente con su propia estructura de datos particular, evitando consolidarlos en un mismo repositorio unificado.   
+
+Usabilidad e Identidad Visual: La interfaz de usuario debe ser intuitiva, amigable para los estudiantes encargados y reflejar la nueva identidad visual incluyendo el logo oficial de VoicePet.   
+
+Control de Versiones y Despliegue: El código del proyecto debe gestionarse de forma centralizada a través de un repositorio en GitHub bajo la administración del líder de equipo.   
+
+Integridad de Datos: El algoritmo de generación de consecutivo debe garantizar la consistencia atómica para evitar la duplicación de radicados incluso durante registros concurrentes.   
+
+Mantenibilidad: La arquitectura del código debe estar dividida modularmente de forma que se facilite el mantenimiento por parte de los miembros del equipo de desarrollo.
+
 
 
