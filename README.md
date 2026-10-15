@@ -86,6 +86,15 @@ Los requisitos no funcionales definen los criterios de calidad, rendimiento y op
 
 *Mantenibilidad: La arquitectura del código debe estar dividida modularmente de forma que se facilite el mantenimiento por parte de los miembros del equipo de desarrollo.
 
+**Dependencias y librerias**
+
+El proyecto **VoicePet** utiliza las siguientes librerías para su funcionamiento:
+
+* **Módulo de Tiempos:** `datetime` (Nativa) - Cálculo de plazos de 30 días y alertas de vencimiento.
+* **Módulo de Datos:** `json` / `os` (Nativas) - Almacenamiento independiente de registros y consecutivo de radicados. 
+* **Módulo de Estadísticas:** `collections` (Nativa) - Conteo de PQRS por tipo y por especie (perros/gatos).
+* **Módulo de Salidas:** `FPDF` (Externa) - Generación de fichos de radicación en formato.
+
 
 **Plan de Proyecto**
 
