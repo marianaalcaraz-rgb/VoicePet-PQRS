@@ -80,7 +80,7 @@ Los requisitos no funcionales definen los criterios de calidad, rendimiento y op
 
 *Usabilidad e Identidad Visual: La interfaz de usuario debe ser intuitiva, amigable para los estudiantes encargados y reflejar la nueva identidad visual incluyendo el logo oficial de VoicePet.   
 
-*Integridad de Datos: El algoritmo de generación de consecutivo debe garantizar la consistencia atómica para evitar la duplicación de radicados incluso durante registros concurrentes, unas de las librerias que se pueden utilizar serían, Datetime, crono.   
+*Integridad de Datos: El algoritmo de generación de consecutivo debe garantizar la consistencia atómica para evitar la duplicación de radicados incluso durante registros concurrentes, unas de las librerias que se pueden utilizar serían. Operación exclusiva con librerías nativas de Python (datetime, time, re, sys, os) sin dependencias externas.   
 
 *Mantenibilidad: La arquitectura del código debe estar dividida modularmente de forma que se facilite el mantenimiento por parte de los miembros del equipo de desarrollo.
 
@@ -88,7 +88,7 @@ Los requisitos no funcionales definen los criterios de calidad, rendimiento y op
 **Plan de Proyecto**
 
 **Cronograma:** 16 semanas desde la conformación del grupo y diseño de requisitos (Semanas 1-8), desarrollo de la Entrega 1 (Semana 9), hasta la integración de Power BI y sustentación final (Semana 16).
-* **Presupuesto académico:** 3 integrantes dedicando 50 horas cada uno (150 horas de grupo). Cada hora se tasa a $8.125 COP (base de 1 SMLV de práctica profesional de $1.300.000 COP por 160 horas al mes), dando un valor formativo equivalente de **$1.625.000 COP**
+* **Presupuesto académico:** 2 integrantes dedicando 50 horas cada uno (100 horas de grupo). Cada hora se tasa a $10.943 COP (base de 1 SMLV de práctica profesional de $1.750.905 COP por 160 horas al mes), dando un valor formativo equivalente de **$1.094.300 COP**
 
   **Diagrama de Gantt**
   
