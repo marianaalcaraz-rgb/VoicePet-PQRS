@@ -29,7 +29,7 @@ este proyecto consiste en el Movimiento Estudiantil de Perritos y Gaticos de los
 
 **Descripcion General Del Software** 
 
-VoicePet es un sistema de gestión de consola, desarrollado en Python, donde permita gestionar documentos PQRS, centralizado y automatizado diseñado para el Movimiento Estudiantil de Perritos y Gaticos (MEPEGA) de la Universidad de Antioquia. Este sistema reemplaza el registro tradicional en papel por una solución digital que unifica la gestión de PQRS (Peticiones, Quejas, Reclamos y Sugerencias) recibidas a través de diversos canales. VoicePet organiza la atención de servicios veterinarios para perros y gatos mediante la asignación automática de radicados únicos, el control riguroso de tiempos de respuesta y la generación de métricas analíticas de gestión. 
+VoicePet es un sistema de gestión de consola, desarrollado en Python, donde permita gestionar documentos PQRS, centralizado y automatizado diseñado para el Movimiento Estudiantil de Perritos y Gaticos de la Universidad de Antioquia. Este sistema reemplaza el registro tradicional en papel por una solución digital que unifica la gestión de PQRS (Peticiones, Quejas, Reclamos y Sugerencias) recibidas a través de diversos canales. VoicePet organiza la atención de servicios veterinarios para perros y gatos mediante la asignación automática de radicados únicos, el control riguroso de tiempos de respuesta y la generación de métricas analíticas de gestión. 
 
 **Objetivos del Sistema**
 
