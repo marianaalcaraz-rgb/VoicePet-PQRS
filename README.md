@@ -33,7 +33,7 @@ VoicePet es un sistema de gestión de consola, desarrollado en Python, donde per
 
 **Objetivos del Sistema**
 
-Digitalizar y optimizar el flujo de trabajo de registro, seguimiento y resolución de PQRS en VoicePet de ahora en adelante VOICEPET para garantizar una atención veterinaria ágil, transparente y oportuna para perros y gatos en la UdeA.
+Digitalizar y optimizar el flujo de trabajo de registro, seguimiento y resolución de PQRS en MEPEGA de ahora en adelante VOICEPET para garantizar una atención veterinaria ágil, transparente y oportuna para perros y gatos en la UdeA.
 
 *Estandarizar el registro: Asignar a cada solicitud un número de radicado propio, único, consecutivo e independiente, evitando la duplicidad de registros.   
 
