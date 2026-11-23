@@ -1,7 +1,7 @@
 usuario|nombre_completo|correo_institucional|contrasena|rol|estado
 ylopez_udea|Yohn Alezander Lopez|yohn.lopez@udea.edu.co|Dulce1406|Administrador|Activo
 malcaraz_udea|Mariana Alcaraz Alvarez|mariana.alcaraz@udea.edu.co|Dulce1406|Administrador|Activo
-vmercado_udea|Victor Hugo Mercado Ramos|hugo.mercado@udea.edu.co|Vmercado01|Administrador|Activo
+vmercado_udea|Victor Hugo Mercado Ramos|hugo.mercado@udea.edu.co|VHmercado01|Administrador|Activo
 mvelez_udea|Mónica Vélez Correa|mvelez_udea@udea.edu.co|MVel3z#2026|Operador|Activo
 jgomez_udea|Jorge Gómez Restrepo|jgomez_udea@udea.edu.co|JGom3z#2026|Operador|Activo
 lrestrepo_udea|Laura Restrepo Ortiz|lrestrepo_udea@udea.edu.co|LRes7r3po#26|Operador|Activo
